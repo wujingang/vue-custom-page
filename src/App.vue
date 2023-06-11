@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Page :pageinfo.sync="pageinfo" @getpageinfo="getchileervalue"></Page>
+    <Page :pageinfo.sync="pageinfo" @getpageinfo="getchileervalue"></Page>1
   </div>
 </template>
 
